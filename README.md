@@ -20,7 +20,7 @@ A lightweight antivirus scanner written in Python featuring real-time protection
   
 
 Download the latest version here:
-https://github.com/jakemarley/my-antivirus-db/releases/tag/v1.1.0
+https://github.com/jakemarley/my-antivirus-db/releases
 
 ## Installation
 
