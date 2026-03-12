@@ -5,6 +5,10 @@ signature detection, and quarantine management.
 
 
 
+Notes:
+Windows may show a security warning because the program is not digitally signed yet.
+Click "More info" → "Run anyway".
+
 
 ## Features
 
